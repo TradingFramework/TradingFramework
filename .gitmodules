@@ -1,0 +1,27 @@
+[submodule "CSharpProjects/CSharpProjects/CandleRangeAnalyzer"]
+	path = CSharpProjects/CSharpProjects/CandleRangeAnalyzer
+	url = https://github.com/TradingFramework/CandleRangeAnalyzer.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.File"]
+	path = CSharpProjects/CSharpProjects/DataProvider.File
+	url = https://github.com/TradingFramework/DataProvider.File.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.Common"]
+	path = CSharpProjects/CSharpProjects/DataProvider.Common
+	url = https://github.com/TradingFramework/DataProvider.Common.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.Api"]
+	path = CSharpProjects/CSharpProjects/DataProvider.Api
+	url = https://github.com/TradingFramework/DataProvider.Api.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.Rithmic"]
+	path = CSharpProjects/CSharpProjects/DataProvider.Rithmic
+	url = https://github.com/TradingFramework/DataProvider.Rithmic.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.Jms"]
+	path = CSharpProjects/CSharpProjects/DataProvider.Jms
+	url = https://github.com/TradingFramework/DataProvider.Jms.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.Kafka"]
+	path = CSharpProjects/CSharpProjects/DataProvider.Kafka
+	url = https://github.com/TradingFramework/DataProvider.Kafka.git
+[submodule "CSharpProjects/CSharpProjects/DataProvider.WebSocket"]
+	path = CSharpProjects/CSharpProjects/DataProvider.WebSocket
+	url = https://github.com/TradingFramework/DataProvider.WebSocket.git
+[submodule "CSharpProjects/CSharpProjects/CoreFramework"]
+	path = CSharpProjects/CSharpProjects/CoreFramework
+	url = https://github.com/TradingFramework/CoreFramework.git
